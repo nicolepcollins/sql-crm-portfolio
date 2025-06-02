@@ -28,7 +28,7 @@ This project demonstrates the design and implementation of a Customer Relationsh
 - Working with cloud-based data warehouses  
 
 ## Author
-Nicole Collins
+Nicole P. Collins
 
 ---
 
