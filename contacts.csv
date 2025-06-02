@@ -1,0 +1,4 @@
+contact_id,customer_id,first_name,last_name,email,phone,created_at
+cont_001,cust_001,Alice,Smith,alice.smith@acmecorp.com,555-1234,2025-06-02 12:00:00
+cont_002,cust_002,Bob,Jones,bob.jones@betallc.eu,555-5678,2025-06-02 12:00:00
+

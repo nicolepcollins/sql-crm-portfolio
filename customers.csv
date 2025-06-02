@@ -1,0 +1,3 @@
+customer_id,customer_name,industry,region,created_at
+cust_001,Acme Corp,Manufacturing,North America,2025-06-02 12:00:00
+cust_002,Beta LLC,Technology,Europe,2025-06-02 12:00:00
