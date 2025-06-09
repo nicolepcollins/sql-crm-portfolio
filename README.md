@@ -47,8 +47,10 @@ The project emphasizes **data modeling**, **SQL schema creation**, and **cloud-b
 ✅ Business logic modeling for CRM systems
 ✅ Git/GitHub version control & project documentation
 
- About Me
+About Me
+
 Nicole P. Collins
+
 Aspiring data analyst passionate about building scalable data solutions and uncovering actionable business insights. This project showcases my hands-on experience with SQL and cloud tools, simulating real-world data challenges.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicole-collins-data-analyst/)
