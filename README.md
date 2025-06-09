@@ -1,6 +1,6 @@
-# 📊 SQL CRM Portfolio Project
+#  SQL CRM Portfolio Project
 
-## 🚀 Overview
+##  Overview
 
 This portfolio project showcases my ability to **design and implement a Customer Relationship Management (CRM) system** using **SQL** and **Google BigQuery**. It simulates a real-world business environment by modeling core CRM entities—**Customers, Leads, Contacts, and Opportunities**—and establishes relationships between them using a normalized relational schema.
 
@@ -8,18 +8,18 @@ The project emphasizes **data modeling**, **SQL schema creation**, and **cloud-b
 
 ---
 
-## 🔧 Features
+##  Features
 
-- 📐 **Relational schema** with primary and foreign key constraints
-- ☁️ **Google BigQuery** as the cloud data warehouse environment
-- 🧾 **CSV data ingestion** through the BigQuery interface (free-tier compatible)
-- 🛠️ **Modular SQL scripts** for schema setup and querying
-- 📊 **Analysis-ready structure** for deriving business insights
-- 📁 Clean and organized folder structure to mirror professional standards
+-  **Relational schema** with primary and foreign key constraints
+-  **Google BigQuery** as the cloud data warehouse environment
+-  **CSV data ingestion** through the BigQuery interface (free-tier compatible)
+-  **Modular SQL scripts** for schema setup and querying
+-  **Analysis-ready structure** for deriving business insights
+-  Clean and organized folder structure to mirror professional standards
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 | File / Folder | Description |
 |---------------|-------------|
@@ -30,7 +30,7 @@ The project emphasizes **data modeling**, **SQL schema creation**, and **cloud-b
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone this repository**  
    ```bash
@@ -39,7 +39,7 @@ The project emphasizes **data modeling**, **SQL schema creation**, and **cloud-b
 3. Upload data from the data/ folder into the corresponding tables using BigQuery's CSV upload functionality.
 4. Explore and analyze the CRM system using the queries provided in the sql/ folder—or write your own!
 
-💡 Skills Demonstrated
+ Skills Demonstrated
 ✅ SQL schema design & normalization
 ✅ Data modeling with primary/foreign keys
 ✅ Cloud-based data warehousing (BigQuery)
@@ -47,7 +47,7 @@ The project emphasizes **data modeling**, **SQL schema creation**, and **cloud-b
 ✅ Business logic modeling for CRM systems
 ✅ Git/GitHub version control & project documentation
 
-🙋‍♀️ About Me
+ About Me
 Nicole P. Collins
 Aspiring data analyst passionate about building scalable data solutions and uncovering actionable business insights. This project showcases my hands-on experience with SQL and cloud tools, simulating real-world data challenges.
 
